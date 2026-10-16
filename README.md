@@ -19,7 +19,7 @@ The complete process, status definitions, review requirements, numbering rules, 
 | FIP | Title | Category | Status |
 | ---: | --- | --- | --- |
 | [0000](FIPS/fip-0000.md) | FIP Purpose and Process | Meta | Draft |
-| [0001](FIPS/fip-0001.md) | Supernode Election, Performance, Rewards, and DAO Governance | Core / Economics / Governance | Draft |
+| [0001](FIPS/fip-0001.md) | Block Producer Election, Performance, Rewards, and DAO Governance | Core / Economics / Governance | Draft |
 
 ## Contributing
 
